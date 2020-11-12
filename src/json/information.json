@@ -1,0 +1,218 @@
+{
+  "text": {
+    "spanish": {
+      "spanish": "Español",
+      "english": "Spanish"
+    },
+    "english": {
+      "spanish": "Ingles",
+      "english": "English"
+    },
+    "title": {
+      "spanish": "Phasmophobia Evidencias",
+      "english": "Phasmophobia Evidences"
+    },
+    "language": {
+      "spanish": "Lenguaje",
+      "english": "Language"
+    },
+    "snackbarEvidenceError": {
+      "spanish": "Solo puedes tener 3 evidencias activas.",
+      "english": "You can only have 3 active evidences."
+    },
+    "checkboxEvidencesLabel": {
+      "spanish": "Evidencias",
+      "english": "Evidences"
+    },
+    "labelPossibleGhost": {
+      "spanish": "Fantasmas posibles",
+      "english": "Possible Ghosts"
+    }
+  },
+  "evidences": {
+    "efmLvl5": {
+      "text": {
+        "spanish": "EFM Nivel 5",
+        "english": "EMF-5"
+      }
+    },
+    "freezingTemp": {
+      "text": {
+        "spanish": "Temperaturas bajo cero",
+        "english": "Freezing Temperatures"
+      }
+    },
+    "spiritBox": {
+      "text": {
+        "spanish": "Spirit Box",
+        "english": "Spirit Box"
+      }
+    },
+    "ghostWriting": {
+      "text": {
+        "spanish": "Escritura fantasma",
+        "english": "Ghost Writing"
+      }
+    },
+    "ghostOrbs": {
+      "text": {
+        "spanish": "Orbes",
+        "english": "Ghost Orbs"
+      }
+    },
+    "fingerprints": {
+      "text": {
+        "spanish": "Huellas dactilares",
+        "english": "Fingerprints"
+      }
+    }
+  },
+
+  "ghosts": {
+
+    "phantom": {
+      "text": {
+        "spanish": "Ente",
+        "english": "Phantom"
+      },
+      "evidences": [
+        "efmLvl5",
+        "freezingTemp",
+        "ghostOrbs"
+      ]
+    },
+
+    "banshee": {
+      "text": {
+        "spanish": "Banshee",
+        "english": "Banshee"
+      },
+      "evidences": [
+        "efmLvl5",
+        "freezingTemp",
+        "fingerprints"
+      ]
+    },
+
+    "jinn": {
+      "text": {
+        "spanish": "Jinn",
+        "english": "Jinn"
+      },
+      "evidences": [
+        "efmLvl5",
+        "spiritBox",
+        "ghostOrbs"
+      ]
+    },
+
+    "revenant": {
+      "text": {
+        "spanish": "Revenant",
+        "english": "Revenant"
+      },
+      "evidences": [
+        "efmLvl5",
+        "ghostWriting",
+        "fingerprints"
+      ]
+    }, 
+
+    "shade": {
+      "text": {
+        "spanish": "Sombra",
+        "english": "Shade"
+      },
+      "evidences": [
+        "efmLvl5",
+        "ghostWriting",
+        "ghostOrbs"
+      ]
+    },
+
+    "oni": {
+      "text": {
+        "spanish": "Oni",
+        "english": "Oni"
+      },
+      "evidences": [
+        "efmLvl5",
+        "spiritBox",
+        "ghostWriting"
+      ]
+    },
+
+    "wraith": {
+      "text": {
+        "spanish": "Espectro",
+        "english": "Wraith"
+      },
+      "evidences": [
+        "freezingTemp",
+        "spiritBox",
+        "fingerprints"
+      ]
+    },
+
+    "mare": {
+      "text": {
+        "spanish": "Pesadilla",
+        "english": "Mare"
+      },
+      "evidences": [
+        "freezingTemp",
+        "spiritBox",
+        "ghostOrbs"
+      ]
+    },
+
+    "demon": {
+      "text": {
+        "spanish": "Demonio",
+        "english": "Demon"
+      },
+      "evidences": [
+        "freezingTemp",
+        "spiritBox",
+        "ghostWriting"
+      ]
+    },
+
+    "yurei": {
+      "text": {
+        "spanish": "Yurei",
+        "english": "Yurei"
+      },
+      "evidences": [
+        "freezingTemp",
+        "ghostWriting",
+        "ghostOrbs"
+      ]
+    },
+
+    "poltergeist": {
+      "text": {
+        "spanish": "Poltergeist",
+        "english": "Poltergeist"
+      },
+      "evidences": [
+        "spiritBox",
+        "ghostOrbs",
+        "fingerprints"
+      ]
+    },
+
+    "spirit": {
+      "text": {
+        "spanish": "Espíritu",
+        "english": "Spirit"
+      },
+      "evidences": [
+        "spiritBox",
+        "ghostWriting",
+        "fingerprints"
+      ]
+    }
+  }
+
+}
