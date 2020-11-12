@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/phasmophobia-evidences/static/css/main.b9975087.chunk.css",
+    "main.js": "/phasmophobia-evidences/static/js/main.df74a6df.chunk.js",
+    "main.js.map": "/phasmophobia-evidences/static/js/main.df74a6df.chunk.js.map",
+    "runtime-main.js": "/phasmophobia-evidences/static/js/runtime-main.d6ea99ec.js",
+    "runtime-main.js.map": "/phasmophobia-evidences/static/js/runtime-main.d6ea99ec.js.map",
+    "static/css/2.959490e1.chunk.css": "/phasmophobia-evidences/static/css/2.959490e1.chunk.css",
+    "static/js/2.6c64a7a4.chunk.js": "/phasmophobia-evidences/static/js/2.6c64a7a4.chunk.js",
+    "static/js/2.6c64a7a4.chunk.js.map": "/phasmophobia-evidences/static/js/2.6c64a7a4.chunk.js.map",
+    "static/js/3.9d6c2938.chunk.js": "/phasmophobia-evidences/static/js/3.9d6c2938.chunk.js",
+    "static/js/3.9d6c2938.chunk.js.map": "/phasmophobia-evidences/static/js/3.9d6c2938.chunk.js.map",
+    "index.html": "/phasmophobia-evidences/index.html",
+    "service-worker.js": "/phasmophobia-evidences/service-worker.js",
+    "service-worker.js.map": "/phasmophobia-evidences/service-worker.js.map",
+    "static/css/2.959490e1.chunk.css.map": "/phasmophobia-evidences/static/css/2.959490e1.chunk.css.map",
+    "static/css/main.b9975087.chunk.css.map": "/phasmophobia-evidences/static/css/main.b9975087.chunk.css.map",
+    "static/js/2.6c64a7a4.chunk.js.LICENSE.txt": "/phasmophobia-evidences/static/js/2.6c64a7a4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/phasmophobia-evidences/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6ea99ec.js",
+    "static/css/2.959490e1.chunk.css",
+    "static/js/2.6c64a7a4.chunk.js",
+    "static/css/main.b9975087.chunk.css",
+    "static/js/main.df74a6df.chunk.js"
+  ]
+}
